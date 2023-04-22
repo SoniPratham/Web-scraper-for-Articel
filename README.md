@@ -30,3 +30,8 @@ python article_scraper.py
 ```
 
 This will scrape the latest articles from The Verge
+
+
+## Articale Data that Store in SQLlite Database
+
+![Databse Images](https://github.com/SoniPratham/Web-scraper-for-Articel/blob/main/Images/Databse%20View.png?raw=true)
